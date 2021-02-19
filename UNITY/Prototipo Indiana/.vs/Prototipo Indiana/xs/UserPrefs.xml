@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4B4DF685-96EE-C0A8-C9B3-1E0511A06ADF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Hearts.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="54" Column="9" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Arrow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyPatrol.cs" Line="9" Column="35" />
+      <File FileName="Assets/Scripts/Hearts.cs" Line="21" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototipo Indiana" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Hearts.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="57c38528-f3a0-4cf8-a77a-5f4ef9f95bc1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

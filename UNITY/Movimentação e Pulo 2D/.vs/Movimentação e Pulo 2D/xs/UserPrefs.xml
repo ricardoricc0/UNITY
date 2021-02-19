@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B478F2DC-3B30-FB42-8306-AAB0C489ADFF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Grounded.cs">
+    <Files>
+      <File FileName="Assets/Scripts/player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Grounded.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movimentação e Pulo 2D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Grounded.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="49bd28c0-ccca-4da7-b446-42442d84fd9f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
